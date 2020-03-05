@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/image">
+        <file alias="seu.png">resources/seu.png</file>
+    </qresource>
+</RCC>
